@@ -16,4 +16,19 @@ entries:
     urls:
     - https://github.com/hairmare/helm-caasperli/releases/download/caasperli-0.2.2/caasperli-0.2.2.tgz
     version: 0.2.2
+  kasperleyn:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-04-02T11:33:14.62279151Z"
+    description: A Helm 2 chart to deploy Caasperli
+    digest: 85258047e868b181a04584edd1791ecd191338b467c09d2bb1dc395d96ef33f4
+    home: https://github.com/fujexo/potz-holzoepfel-und-zipfelchape
+    maintainers:
+    - email: hairmare@purplehaze.ch
+      name: hairmare
+      url: https://github.com/hairmare
+    name: kasperleyn
+    urls:
+    - https://github.com/hairmare/helm-caasperli/releases/download/kasperleyn-0.1.0/kasperleyn-0.1.0.tgz
+    version: 0.1.0
 generated: "2020-03-23T10:30:55.830460151Z"
