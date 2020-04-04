@@ -3,6 +3,21 @@ entries:
   caasperli:
   - apiVersion: v2
     appVersion: latest
+    created: "2020-04-04T08:05:09.081564602Z"
+    description: Deploy Caasperli to a Kubernetes Cluster
+    digest: 426199491959b9da6b3ecbedb25edf12799dee87758e03888a6b302d8b5412d4
+    home: https://github.com/fujexo/potz-holzoepfel-und-zipfelchape
+    maintainers:
+    - email: hairmare@purplehaze.ch
+      name: hairmare
+      url: https://github.com/hairmare
+    name: caasperli
+    type: application
+    urls:
+    - https://github.com/hairmare/helm-caasperli/releases/download/caasperli-0.2.3/caasperli-0.2.3.tgz
+    version: 0.2.3
+  - apiVersion: v2
+    appVersion: latest
     created: "2020-03-23T10:30:55.942923247Z"
     description: Deploy Caasperli to a Kubernetes Cluster
     digest: b54ed667286b83ba3a5233ae42759b7b0f150bd1b9cdc074c6b21c4bb6dae78f
@@ -17,6 +32,20 @@ entries:
     - https://github.com/hairmare/helm-caasperli/releases/download/caasperli-0.2.2/caasperli-0.2.2.tgz
     version: 0.2.2
   kasperleyn:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-04-04T08:05:09.155235116Z"
+    description: A Helm 2 chart to deploy Caasperli
+    digest: ad27b77eaa29672ce5085560c758e23697c6bb50b70b746f90be28f3ae16d72d
+    home: https://github.com/fujexo/potz-holzoepfel-und-zipfelchape
+    maintainers:
+    - email: hairmare@purplehaze.ch
+      name: hairmare
+      url: https://github.com/hairmare
+    name: kasperleyn
+    urls:
+    - https://github.com/hairmare/helm-caasperli/releases/download/kasperleyn-0.1.1/kasperleyn-0.1.1.tgz
+    version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
     created: "2020-04-02T11:33:14.62279151Z"
